@@ -3,10 +3,10 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:intl/intl.dart';
-import 'package:month_picker_dialog/src/MonthSelector.dart';
-import 'package:month_picker_dialog/src/YearSelector.dart';
-import 'package:month_picker_dialog/src/common.dart';
-import 'package:month_picker_dialog/src/locale_utils.dart';
+import 'package:month_picker_dialog_changes/src/MonthSelector.dart';
+import 'package:month_picker_dialog_changes/src/YearSelector.dart';
+import 'package:month_picker_dialog_changes/src/common.dart';
+import 'package:month_picker_dialog_changes/src/locale_utils.dart';
 import 'package:rxdart/rxdart.dart';
 
 /// Displays month picker dialog.

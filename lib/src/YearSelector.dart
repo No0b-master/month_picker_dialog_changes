@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import 'package:month_picker_dialog/src/common.dart';
+import 'package:month_picker_dialog_changes/src/common.dart';
 import 'package:rxdart/rxdart.dart';
 
 import 'locale_utils.dart';
